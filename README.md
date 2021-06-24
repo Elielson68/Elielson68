@@ -1,5 +1,5 @@
 <div align="center">
-<img  align="lest" src="https://media3.giphy.com/media/YWUpVw86AtIbe/giphy.gif" width="102px;"/> 
+<img  align="middle" src="https://media3.giphy.com/media/YWUpVw86AtIbe/giphy.gif" width="102px;"/> 
 
 ### PLAYER UNLOCKED: ELIELSON BARBOSA 
 
@@ -106,9 +106,9 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Calcular-Encontrar-C-ou-M-1&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Calcular-Encontrar-C-ou-M-1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0NDg0MTEzLC0xMjk1NjkzMTgyLC04MD
-YwMzMxNzgsLTk3MTUxMDM0NCwxMzA5NTk4MTMxLC03NDA2NzM0
-MiwxMjUxNzc3ODM0LDE2NTA1ODg5NzIsLTExNzU3MDQwNDMsMT
-g4NDIwNzQ5OCwtMTY2MzM1NjYzNCwyNDMzODE5NiwxMjExMjQ4
-MzgyLC0xODQ0NDcxMTg2LDE3NTY2MjQ2OTVdfQ==
+eyJoaXN0b3J5IjpbLTIwODQzNzE0NDQsLTEyOTU2OTMxODIsLT
+gwNjAzMzE3OCwtOTcxNTEwMzQ0LDEzMDk1OTgxMzEsLTc0MDY3
+MzQyLDEyNTE3Nzc4MzQsMTY1MDU4ODk3MiwtMTE3NTcwNDA0My
+wxODg0MjA3NDk4LC0xNjYzMzU2NjM0LDI0MzM4MTk2LDEyMTEy
+NDgzODIsLTE4NDQ0NzExODYsMTc1NjYyNDY5NV19
 -->
