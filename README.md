@@ -79,8 +79,7 @@ Atualmente as linguagens que possuo mais domínio são C#, python e Javascript.
 <img align="left" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/regexplanet/regexplanet-ar21.svg"/>
 
 </div>
-
-
+<br>
 <br>
 
 
