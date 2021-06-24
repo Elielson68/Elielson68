@@ -80,8 +80,11 @@ Atualmente as linguagens que possuo mais domínio são C#, python e Javascript.
 
 </div>
 
+
 <br>
 
+
 ### ENGINE SKILLS
+
 
 <img align="left" alt="Dot Net" width="100px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"/>
