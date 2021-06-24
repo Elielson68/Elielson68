@@ -58,6 +58,7 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 	<img align="left" alt="Dot Net" width="56px" src="https://cpl.thalesgroup.com/sites/default/files/content/paragraphs/intro/2020-03/postgresql-logo.png"/>
 	<img align="left" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"/>
 	<img align="left" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/regexplanet/regexplanet-ar21.svg"/>
+	<img align="left" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"/>
 </div>
 
 <br>
