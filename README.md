@@ -49,7 +49,7 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 
 
 ### BACKEND SKILLS
-```
+
 <div style="background-color: #FF0000">
 	<img align="left" alt="Python" width="32px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"/>
 	<img align="left" alt="Python" width="72px" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"/>
@@ -62,7 +62,7 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 	<img align="left" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/regexplanet/regexplanet-ar21.svg"/>
 	<img align="left" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"/>
 </div>
-```
+
 <br>
 <br>
 
@@ -100,7 +100,7 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Calcular-Encontrar-C-ou-M-1&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Calcular-Encontrar-C-ou-M-1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTkyNjExMiwtOTcxNTEwMzQ0LDEzMD
+eyJoaXN0b3J5IjpbLTgwNjAzMzE3OCwtOTcxNTEwMzQ0LDEzMD
 k1OTgxMzEsLTc0MDY3MzQyLDEyNTE3Nzc4MzQsMTY1MDU4ODk3
 MiwtMTE3NTcwNDA0MywxODg0MjA3NDk4LC0xNjYzMzU2NjM0LD
 I0MzM4MTk2LDEyMTEyNDgzODIsLTE4NDQ0NzExODYsMTc1NjYy
