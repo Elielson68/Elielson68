@@ -4,6 +4,7 @@
 Oi, sou o Elielson Barbosa e irei contar uma breve descrição sobre mim:
 
 Sou desenvolvedor de jogos mas que também ama explorar outras áreas <img src="https://media1.tenor.com/images/b4152b460f90dfe11492214c55f024ef/tenor.gif?itemid=5442088" width="52px"/>
+
 Já desenvolvi para:
 <table border="0">
 	<tr>
@@ -96,6 +97,6 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Calcular-Encontrar-C-ou-M-1&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Calcular-Encontrar-C-ou-M-1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzMzgxOTYsMTIxMTI0ODM4MiwtMTg0ND
-Q3MTE4NiwxNzU2NjI0Njk1XX0=
+eyJoaXN0b3J5IjpbLTE2NjMzNTY2MzQsMjQzMzgxOTYsMTIxMT
+I0ODM4MiwtMTg0NDQ3MTE4NiwxNzU2NjI0Njk1XX0=
 -->
