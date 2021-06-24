@@ -32,7 +32,7 @@ Já desenvolvi para:
 		</td>
 	</tr>
 </table>
-E onde mais a curiosidade me permitir chegar <img src="" width="30px" />
+E onde mais a curiosidade me permitir chegar <img src="https://64.media.tumblr.com/9250c0c60d7d7974053876ca50410e44/tumblr_mfr6dto4j21s0qwlko1_500.gif" width="64px" />
 
 Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 
@@ -97,7 +97,7 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Calcular-Encontrar-C-ou-M-1&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Calcular-Encontrar-C-ou-M-1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTkyNTM4MSwtMTY2MzM1NjYzNCwyND
+eyJoaXN0b3J5IjpbMTg4NDIwNzQ5OCwtMTY2MzM1NjYzNCwyND
 MzODE5NiwxMjExMjQ4MzgyLC0xODQ0NDcxMTg2LDE3NTY2MjQ2
 OTVdfQ==
 -->
