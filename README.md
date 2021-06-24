@@ -1,8 +1,9 @@
-
-<img  align="middle" src="https://media3.giphy.com/media/YWUpVw86AtIbe/giphy.gif" width="102px;"/> 
+<div align="center">
+<img  align="lest" src="https://media3.giphy.com/media/YWUpVw86AtIbe/giphy.gif" width="102px;"/> 
 
 ### PLAYER UNLOCKED: ELIELSON BARBOSA 
 
+</div>
 Oi, sou o Elielson Barbosa e irei contar uma breve descrição sobre mim:
 
 Sou desenvolvedor de jogos mas que também ama explorar outras áreas 
@@ -105,9 +106,9 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Calcular-Encontrar-C-ou-M-1&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Calcular-Encontrar-C-ou-M-1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Mjk2ODYzNiwtMTI5NTY5MzE4MiwtOD
-A2MDMzMTc4LC05NzE1MTAzNDQsMTMwOTU5ODEzMSwtNzQwNjcz
-NDIsMTI1MTc3NzgzNCwxNjUwNTg4OTcyLC0xMTc1NzA0MDQzLD
-E4ODQyMDc0OTgsLTE2NjMzNTY2MzQsMjQzMzgxOTYsMTIxMTI0
-ODM4MiwtMTg0NDQ3MTE4NiwxNzU2NjI0Njk1XX0=
+eyJoaXN0b3J5IjpbMjQ0NDg0MTEzLC0xMjk1NjkzMTgyLC04MD
+YwMzMxNzgsLTk3MTUxMDM0NCwxMzA5NTk4MTMxLC03NDA2NzM0
+MiwxMjUxNzc3ODM0LDE2NTA1ODg5NzIsLTExNzU3MDQwNDMsMT
+g4NDIwNzQ5OCwtMTY2MzM1NjYzNCwyNDMzODE5NiwxMjExMjQ4
+MzgyLC0xODQ0NDcxMTg2LDE3NTY2MjQ2OTVdfQ==
 -->
