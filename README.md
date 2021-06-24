@@ -69,6 +69,7 @@ Atualmente as linguagens que possuo mais domínio são C#, python e Javascript.
 </div>
 
 <br>
+<br>
 
 ### ENGINE SKILLS
 
@@ -79,3 +80,34 @@ Atualmente as linguagens que possuo mais domínio são C#, python e Javascript.
 ### STATUS
 
 ![Elielson's github stats](https://github-readme-stats.vercel.app/api?username=Elielson68&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elielson68&bg_color=30,e96443,904e95&text_color=fff&count_private=false&icon_color=fff&title_color=fff&hide_border=true)
+### GAMES PROJECTS
+
+[![Inventary Project](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=InventarioProject&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/Tutorial_Git)
+
+[![Smooth Criminal](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Smooth-Criminal&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/Tutorial_Git)
+
+
+### WEB PROJECTS
+
+[![Git Tutorial](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=DTM&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/Tutorial_Git)
+
+[![Git Tutorial](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=dtm-evaluation&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/Tutorial_Git)
+
+[![Git Tutorial](https://github-readme-stats.vercel.app/api/pin/?username=olucasfreitas&repo=Estoque4000&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/Tutorial_Git)
+
+[![Git Tutorial](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=MOBYDATA&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/Tutorial_Git)
+
+### PYTHON PROJECTS
+
+[![Git Tutorial](https://github-readme-stats.vercel.app/api/pin/?username=marciaBot&repo=marcia-bot&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/Tutorial_Git)
+
+[![Git Tutorial](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Encontrar-P-e-Q&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/Tutorial_Git)
+
+[![Git Tutorial](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Algoritmo-Euclides&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/Tutorial_Git)
+
+[![Git Tutorial](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Calcular-Encontrar-C-ou-M-1&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/Tutorial_Git)
+
+[![Git Tutorial](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=JogoDaVelha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/Tutorial_Git)
+
+[![Git Tutorial](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Py-AVL-Tree&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/Tutorial_Git)
+
