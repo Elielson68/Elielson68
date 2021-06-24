@@ -95,12 +95,6 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Calcular-Encontrar-C-ou-M-1&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Calcular-Encontrar-C-ou-M-1)
 
 
-    adsada var x = 5`
-
-> enter code here
-
-`
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDQzODUxMiwxNzU2NjI0Njk1XX0=
+eyJoaXN0b3J5IjpbLTk3NjY5ODA4NCwxNzU2NjI0Njk1XX0=
 -->
