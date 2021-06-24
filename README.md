@@ -94,7 +94,7 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 [![Algoritmo-Euclides](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Algoritmo-Euclides&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Algoritmo-Euclides)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Calcular-Encontrar-C-ou-M-1&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Calcular-Encontrar-C-ou-M-1)
 
-<div style="background-color: green;"><p style="background-color: green;">teste</p></div>
+<div style="background-color: green;"><p style="color: green;">teste</p></div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Nzg5NTQzNSwxNzU2NjI0Njk1XX0=
+eyJoaXN0b3J5IjpbNTYyNTQ4NDIwLDE3NTY2MjQ2OTVdfQ==
 -->
