@@ -46,7 +46,7 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 
 ### BACKEND SKILLS
 
-<div>
+<div style="background-color: #FF0000">
 	<img align="left" alt="Python" width="32px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"/>
 	<img align="left" alt="Python" width="72px" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"/>
 	<img align="left" alt="Flask" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"/>
