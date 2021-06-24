@@ -7,7 +7,7 @@ Sou desenvolvedor de jogos mas que também ama explorar outras áreas <img src="
 
 Já desenvolvi para:
 
-teste|teste
+sa|  .
 --------|-------
 WEB | <img alt="WEB" width="26px" src="https://img2.gratispng.com/20180706/bcw/kisspng-web-development-logo-clip-art-joomla-icon-5b3fa921d25041.4362954515308987218615.jpg" /> 
 
@@ -104,9 +104,9 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Calcular-Encontrar-C-ou-M-1&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Calcular-Encontrar-C-ou-M-1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDE3ODQ1NSwtOTcxNTEwMzQ0LDEzMD
-k1OTgxMzEsLTc0MDY3MzQyLDEyNTE3Nzc4MzQsMTY1MDU4ODk3
-MiwtMTE3NTcwNDA0MywxODg0MjA3NDk4LC0xNjYzMzU2NjM0LD
-I0MzM4MTk2LDEyMTEyNDgzODIsLTE4NDQ0NzExODYsMTc1NjYy
-NDY5NV19
+eyJoaXN0b3J5IjpbLTE3NjUxMDU4NDksLTk3MTUxMDM0NCwxMz
+A5NTk4MTMxLC03NDA2NzM0MiwxMjUxNzc3ODM0LDE2NTA1ODg5
+NzIsLTExNzU3MDQwNDMsMTg4NDIwNzQ5OCwtMTY2MzM1NjYzNC
+wyNDMzODE5NiwxMjExMjQ4MzgyLC0xODQ0NDcxMTg2LDE3NTY2
+MjQ2OTVdfQ==
 -->
