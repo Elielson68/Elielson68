@@ -97,5 +97,5 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 
 testeee
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjYyNDY5NSw5NzQ1NTI4NTVdfQ==
+eyJoaXN0b3J5IjpbMTc1NjYyNDY5NV19
 -->
