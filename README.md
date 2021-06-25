@@ -115,16 +115,14 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 [![JogoDaVelha](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=JogoDaVelha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/JogoDaVelha)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BauMagicoGame&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BauMagicoGame)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=TabuleiroGame&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/TabuleiroGame)
+[![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BatataQuenteGame&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BatataQuenteGame)
+
 #### UTILITIES
 
 [![Py-AVL-Tree](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Py-AVL-Tree&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Py-AVL-Tree)
 [![Encontrar-P-e-Q](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Encontrar-P-e-Q&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Encontrar-P-e-Q)
 [![Algoritmo-Euclides](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Algoritmo-Euclides&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Algoritmo-Euclides)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Calcular-Encontrar-C-ou-M-1&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Calcular-Encontrar-C-ou-M-1)
-
-
-
-
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=CesupaWebScrapping&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/CesupaWebScrapping)
 
 https://github.com/Elielson68/TabuleiroGame
@@ -134,11 +132,11 @@ https://github.com/Elielson68/TabuleiroGame
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzg2NzI5NSw1MzUzOTQwNCwtNTgzNz
-YyMzIxLDEzNTEzODUyNTEsODM1OTcwMDMwLDk4NjAxMDg1OCwt
-MTI5NTY5MzE4MiwtODA2MDMzMTc4LC05NzE1MTAzNDQsMTMwOT
-U5ODEzMSwtNzQwNjczNDIsMTI1MTc3NzgzNCwxNjUwNTg4OTcy
-LC0xMTc1NzA0MDQzLDE4ODQyMDc0OTgsLTE2NjMzNTY2MzQsMj
-QzMzgxOTYsMTIxMTI0ODM4MiwtMTg0NDQ3MTE4NiwxNzU2NjI0
-Njk1XX0=
+eyJoaXN0b3J5IjpbLTEwNjAxNzM3NjksMTUwMzg2NzI5NSw1Mz
+UzOTQwNCwtNTgzNzYyMzIxLDEzNTEzODUyNTEsODM1OTcwMDMw
+LDk4NjAxMDg1OCwtMTI5NTY5MzE4MiwtODA2MDMzMTc4LC05Nz
+E1MTAzNDQsMTMwOTU5ODEzMSwtNzQwNjczNDIsMTI1MTc3Nzgz
+NCwxNjUwNTg4OTcyLC0xMTc1NzA0MDQzLDE4ODQyMDc0OTgsLT
+E2NjMzNTY2MzQsMjQzMzgxOTYsMTIxMTI0ODM4MiwtMTg0NDQ3
+MTE4Nl19
 -->
