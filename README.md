@@ -64,7 +64,6 @@ E onde mais a curiosidade me permitir chegar
 </div>
 <br>
 
-
 ### BACKEND SKILLS
 
 <div style="background-color: #FF0000">
@@ -79,8 +78,6 @@ E onde mais a curiosidade me permitir chegar
 	<img align="left" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/regexplanet/regexplanet-ar21.svg"/>
 	<img align="left" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"/>
 </div>
-
-<br>
 <br>
 
 ### ENGINE SKILLS
@@ -169,11 +166,11 @@ E onde mais a curiosidade me permitir chegar
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=ProvaCasseb---Validador-de-Senha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/ProvaCasseb---Validador-de-Senha)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=xFood---Atividade---Casseb&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/xFood---Atividade---Casseb)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzE5MTc1OTMsMjA0OTc4NTc0OCwxOT
-kwNDc3MzgwLC0xMDQ3Mjk3MTY5LDE1MDM4NjcyOTUsNTM1Mzk0
-MDQsLTU4Mzc2MjMyMSwxMzUxMzg1MjUxLDgzNTk3MDAzMCw5OD
-YwMTA4NTgsLTEyOTU2OTMxODIsLTgwNjAzMzE3OCwtOTcxNTEw
-MzQ0LDEzMDk1OTgxMzEsLTc0MDY3MzQyLDEyNTE3Nzc4MzQsMT
-Y1MDU4ODk3MiwtMTE3NTcwNDA0MywxODg0MjA3NDk4LC0xNjYz
-MzU2NjM0XX0=
+eyJoaXN0b3J5IjpbNTY1MzEzMzc5LC0xOTcxOTE3NTkzLDIwND
+k3ODU3NDgsMTk5MDQ3NzM4MCwtMTA0NzI5NzE2OSwxNTAzODY3
+Mjk1LDUzNTM5NDA0LC01ODM3NjIzMjEsMTM1MTM4NTI1MSw4Mz
+U5NzAwMzAsOTg2MDEwODU4LC0xMjk1NjkzMTgyLC04MDYwMzMx
+NzgsLTk3MTUxMDM0NCwxMzA5NTk4MTMxLC03NDA2NzM0MiwxMj
+UxNzc3ODM0LDE2NTA1ODg5NzIsLTExNzU3MDQwNDMsMTg4NDIw
+NzQ5OF19
 -->
