@@ -82,17 +82,17 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 <br>
 <br>
 
-### STATUS
+## STATUS
 
 ![Elielson's github stats](https://github-readme-stats.vercel.app/api?username=Elielson68&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elielson68&bg_color=30,e96443,904e95&text_color=fff&count_private=false&icon_color=fff&title_color=fff&hide_border=true)
 
-### GAMES PROJECTS
+## GAMES PROJECTS
 
 [![Inventary Project](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=InventarioProject&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/InventarioProject)
 [![Smooth Criminal](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Smooth-Criminal&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Smooth-Criminal)
 
 
-### WEB PROJECTS
+## WEB PROJECTS
 
 [![MOBYDATA](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=MOBYDATA&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/MOBYDATA)
 [![DTM](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=DTM&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/DTM)
@@ -100,7 +100,7 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 [![Estoque4000](https://github-readme-stats.vercel.app/api/pin/?username=olucasfreitas&repo=Estoque4000&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/olucasfreitas/Estoque4000)
 
 
-### PYTHON PROJECTS
+## PYTHON PROJECTS
 #### BOT
 [![marcia-bot](https://github-readme-stats.vercel.app/api/pin/?username=marciaBot&repo=marcia-bot&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/marciaBot/marcia-bot)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BotWhatsapp&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BotWhatsapp)
@@ -126,10 +126,10 @@ https://github.com/Elielson68/TabuleiroGame
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzM5ODE1Niw5ODYwMTA4NTgsLTEyOT
-U2OTMxODIsLTgwNjAzMzE3OCwtOTcxNTEwMzQ0LDEzMDk1OTgx
-MzEsLTc0MDY3MzQyLDEyNTE3Nzc4MzQsMTY1MDU4ODk3MiwtMT
-E3NTcwNDA0MywxODg0MjA3NDk4LC0xNjYzMzU2NjM0LDI0MzM4
-MTk2LDEyMTEyNDgzODIsLTE4NDQ0NzExODYsMTc1NjYyNDY5NV
-19
+eyJoaXN0b3J5IjpbLTIwMzAwNzIxMzIsOTg2MDEwODU4LC0xMj
+k1NjkzMTgyLC04MDYwMzMxNzgsLTk3MTUxMDM0NCwxMzA5NTk4
+MTMxLC03NDA2NzM0MiwxMjUxNzc3ODM0LDE2NTA1ODg5NzIsLT
+ExNzU3MDQwNDMsMTg4NDIwNzQ5OCwtMTY2MzM1NjYzNCwyNDMz
+ODE5NiwxMjExMjQ4MzgyLC0xODQ0NDcxMTg2LDE3NTY2MjQ2OT
+VdfQ==
 -->
