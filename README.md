@@ -115,12 +115,13 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BotWhatsapp-DownloadManga&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BotWhatsapp-DownloadManga)
 
 #### GAME
+
 [![JogoDaVelha](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=JogoDaVelha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/JogoDaVelha)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BauMagicoGame&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BauMagicoGame)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=TabuleiroGame&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/TabuleiroGame)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BatataQuenteGame&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BatataQuenteGame)
 
-#### UTILITIES
+### UTILITIES
 
 [![Py-AVL-Tree](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Py-AVL-Tree&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Py-AVL-Tree)
 [![Encontrar-P-e-Q](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Encontrar-P-e-Q&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Encontrar-P-e-Q)
@@ -150,11 +151,11 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=ProvaCasseb---Validador-de-Senha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/ProvaCasseb---Validador-de-Senha)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=xFood---Atividade---Casseb&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/xFood---Atividade---Casseb)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDQ3NzM4MCwtMTA0NzI5NzE2OSwxNT
-AzODY3Mjk1LDUzNTM5NDA0LC01ODM3NjIzMjEsMTM1MTM4NTI1
-MSw4MzU5NzAwMzAsOTg2MDEwODU4LC0xMjk1NjkzMTgyLC04MD
-YwMzMxNzgsLTk3MTUxMDM0NCwxMzA5NTk4MTMxLC03NDA2NzM0
-MiwxMjUxNzc3ODM0LDE2NTA1ODg5NzIsLTExNzU3MDQwNDMsMT
-g4NDIwNzQ5OCwtMTY2MzM1NjYzNCwyNDMzODE5NiwxMjExMjQ4
-MzgyXX0=
+eyJoaXN0b3J5IjpbMTk0Mzc3MTI4MywxOTkwNDc3MzgwLC0xMD
+Q3Mjk3MTY5LDE1MDM4NjcyOTUsNTM1Mzk0MDQsLTU4Mzc2MjMy
+MSwxMzUxMzg1MjUxLDgzNTk3MDAzMCw5ODYwMTA4NTgsLTEyOT
+U2OTMxODIsLTgwNjAzMzE3OCwtOTcxNTEwMzQ0LDEzMDk1OTgx
+MzEsLTc0MDY3MzQyLDEyNTE3Nzc4MzQsMTY1MDU4ODk3MiwtMT
+E3NTcwNDA0MywxODg0MjA3NDk4LC0xNjYzMzU2NjM0LDI0MzM4
+MTk2XX0=
 -->
