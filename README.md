@@ -106,11 +106,6 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 
  ### BOT
  
- <div background="color: green" width="100%">
-  oiiiii
-  dsasda
-</div>
-
 [![marcia-bot](https://github-readme-stats.vercel.app/api/pin/?username=marciaBot&repo=marcia-bot&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/marciaBot/marcia-bot)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BotWhatsapp&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BotWhatsapp)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BotDiscordGameLab&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BotDiscordGameLab)
@@ -118,6 +113,8 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 
 #### GAME
 [![JogoDaVelha](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=JogoDaVelha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/JogoDaVelha)
+[![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BauMagicoGame&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BauMagicoGame)
+[![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=TabuleiroGame&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/TabuleiroGame)
 #### UTILITIES
 
 [![Py-AVL-Tree](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Py-AVL-Tree&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Py-AVL-Tree)
@@ -127,9 +124,9 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 
 
 
-[![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BauMagicoGame&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BauMagicoGame)
+
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=CesupaWebScrapping&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/CesupaWebScrapping)
-[![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=TabuleiroGame&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/TabuleiroGame)
+
 https://github.com/Elielson68/TabuleiroGame
 
 
@@ -137,10 +134,11 @@ https://github.com/Elielson68/TabuleiroGame
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1Mzk0MDQsLTU4Mzc2MjMyMSwxMzUxMz
-g1MjUxLDgzNTk3MDAzMCw5ODYwMTA4NTgsLTEyOTU2OTMxODIs
-LTgwNjAzMzE3OCwtOTcxNTEwMzQ0LDEzMDk1OTgxMzEsLTc0MD
-Y3MzQyLDEyNTE3Nzc4MzQsMTY1MDU4ODk3MiwtMTE3NTcwNDA0
-MywxODg0MjA3NDk4LC0xNjYzMzU2NjM0LDI0MzM4MTk2LDEyMT
-EyNDgzODIsLTE4NDQ0NzExODYsMTc1NjYyNDY5NV19
+eyJoaXN0b3J5IjpbMTUwMzg2NzI5NSw1MzUzOTQwNCwtNTgzNz
+YyMzIxLDEzNTEzODUyNTEsODM1OTcwMDMwLDk4NjAxMDg1OCwt
+MTI5NTY5MzE4MiwtODA2MDMzMTc4LC05NzE1MTAzNDQsMTMwOT
+U5ODEzMSwtNzQwNjczNDIsMTI1MTc3NzgzNCwxNjUwNTg4OTcy
+LC0xMTc1NzA0MDQzLDE4ODQyMDc0OTgsLTE2NjMzNTY2MzQsMj
+QzMzgxOTYsMTIxMTI0ODM4MiwtMTg0NDQ3MTE4NiwxNzU2NjI0
+Njk1XX0=
 -->
