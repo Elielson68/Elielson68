@@ -62,7 +62,6 @@ E onde mais a curiosidade me permitir chegar
 	<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 	<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"/>
 </div>
-
 <br>
 
 ### BACKEND SKILLS
@@ -79,10 +78,7 @@ E onde mais a curiosidade me permitir chegar
 	<img align="" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/regexplanet/regexplanet-ar21.svg"/>
 	<img align="" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"/>
 </div>
-
-
 <br>
-
 
 ### ENGINE SKILLS
 
@@ -170,11 +166,11 @@ E onde mais a curiosidade me permitir chegar
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=ProvaCasseb---Validador-de-Senha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/ProvaCasseb---Validador-de-Senha)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=xFood---Atividade---Casseb&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/xFood---Atividade---Casseb)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODIzNzIwNCwtNzgwMDE2NDk3LDU3OD
-A2NTMwNCw1NjUzMTMzNzksLTE5NzE5MTc1OTMsMjA0OTc4NTc0
-OCwxOTkwNDc3MzgwLC0xMDQ3Mjk3MTY5LDE1MDM4NjcyOTUsNT
-M1Mzk0MDQsLTU4Mzc2MjMyMSwxMzUxMzg1MjUxLDgzNTk3MDAz
-MCw5ODYwMTA4NTgsLTEyOTU2OTMxODIsLTgwNjAzMzE3OCwtOT
-cxNTEwMzQ0LDEzMDk1OTgxMzEsLTc0MDY3MzQyLDEyNTE3Nzc4
-MzRdfQ==
+eyJoaXN0b3J5IjpbNDY3NTAzMDg4LC03ODAwMTY0OTcsNTc4MD
+Y1MzA0LDU2NTMxMzM3OSwtMTk3MTkxNzU5MywyMDQ5Nzg1NzQ4
+LDE5OTA0NzczODAsLTEwNDcyOTcxNjksMTUwMzg2NzI5NSw1Mz
+UzOTQwNCwtNTgzNzYyMzIxLDEzNTEzODUyNTEsODM1OTcwMDMw
+LDk4NjAxMDg1OCwtMTI5NTY5MzE4MiwtODA2MDMzMTc4LC05Nz
+E1MTAzNDQsMTMwOTU5ODEzMSwtNzQwNjczNDIsMTI1MTc3Nzgz
+NF19
 -->
