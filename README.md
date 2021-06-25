@@ -97,7 +97,13 @@ E onde mais a curiosidade me permitir chegar
 
 ![Elielson's github stats](https://github-readme-stats.vercel.app/api?username=Elielson68&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elielson68&bg_color=30,e96443,904e95&text_color=fff&count_private=false&icon_color=fff&title_color=fff&hide_border=true)
 
-## C# PROJECTS
+<div align="center">
+
+# PROJECTS
+
+</div>
+
+## C#
 
  ### GAMES
 
@@ -108,7 +114,7 @@ E onde mais a curiosidade me permitir chegar
 
 [![Smooth Criminal](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=TextColor&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/TextColor)
 
-## WEB PROJECTS
+## WEB
 
 [![MOBYDATA](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=MOBYDATA&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/MOBYDATA)
 [![DTM](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=DTM&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/DTM)
@@ -116,7 +122,7 @@ E onde mais a curiosidade me permitir chegar
 [![Estoque4000](https://github-readme-stats.vercel.app/api/pin/?username=olucasfreitas&repo=Estoque4000&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/olucasfreitas/Estoque4000)
 
 
-## PYTHON PROJECTS
+## PYTHON
 
  ### BOT
  
@@ -163,11 +169,11 @@ E onde mais a curiosidade me permitir chegar
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=ProvaCasseb---Validador-de-Senha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/ProvaCasseb---Validador-de-Senha)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=xFood---Atividade---Casseb&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/xFood---Atividade---Casseb)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDk5MzYxNDAsMjA0OTc4NTc0OCwxOT
-kwNDc3MzgwLC0xMDQ3Mjk3MTY5LDE1MDM4NjcyOTUsNTM1Mzk0
-MDQsLTU4Mzc2MjMyMSwxMzUxMzg1MjUxLDgzNTk3MDAzMCw5OD
-YwMTA4NTgsLTEyOTU2OTMxODIsLTgwNjAzMzE3OCwtOTcxNTEw
-MzQ0LDEzMDk1OTgxMzEsLTc0MDY3MzQyLDEyNTE3Nzc4MzQsMT
-Y1MDU4ODk3MiwtMTE3NTcwNDA0MywxODg0MjA3NDk4LC0xNjYz
-MzU2NjM0XX0=
+eyJoaXN0b3J5IjpbMjAyOTg2OTk3NywyMDQ5Nzg1NzQ4LDE5OT
+A0NzczODAsLTEwNDcyOTcxNjksMTUwMzg2NzI5NSw1MzUzOTQw
+NCwtNTgzNzYyMzIxLDEzNTEzODUyNTEsODM1OTcwMDMwLDk4Nj
+AxMDg1OCwtMTI5NTY5MzE4MiwtODA2MDMzMTc4LC05NzE1MTAz
+NDQsMTMwOTU5ODEzMSwtNzQwNjczNDIsMTI1MTc3NzgzNCwxNj
+UwNTg4OTcyLC0xMTc1NzA0MDQzLDE4ODQyMDc0OTgsLTE2NjMz
+NTY2MzRdfQ==
 -->
