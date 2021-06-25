@@ -101,7 +101,7 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 
 
 ### PYTHON PROJECTS
-
+#### 
 [![marcia-bot](https://github-readme-stats.vercel.app/api/pin/?username=marciaBot&repo=marcia-bot&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/marciaBot/marcia-bot)
 [![JogoDaVelha](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=JogoDaVelha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/JogoDaVelha)
 [![Py-AVL-Tree](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Py-AVL-Tree&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Py-AVL-Tree)
@@ -113,17 +113,18 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BotDiscordGameLab&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BotDiscordGameLab)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BauMagicoGame&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BauMagicoGame)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=CesupaWebScrapping&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/CesupaWebScrapping)
-https://github.com/Elielson68/BatataQuenteGame
+[![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=TabuleiroGame&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/TabuleiroGame)
+https://github.com/Elielson68/TabuleiroGame
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM2MzY4NzUsOTg2MDEwODU4LC0xMj
-k1NjkzMTgyLC04MDYwMzMxNzgsLTk3MTUxMDM0NCwxMzA5NTk4
-MTMxLC03NDA2NzM0MiwxMjUxNzc3ODM0LDE2NTA1ODg5NzIsLT
-ExNzU3MDQwNDMsMTg4NDIwNzQ5OCwtMTY2MzM1NjYzNCwyNDMz
-ODE5NiwxMjExMjQ4MzgyLC0xODQ0NDcxMTg2LDE3NTY2MjQ2OT
-VdfQ==
+eyJoaXN0b3J5IjpbMTQxNzY0MzA4NSw5ODYwMTA4NTgsLTEyOT
+U2OTMxODIsLTgwNjAzMzE3OCwtOTcxNTEwMzQ0LDEzMDk1OTgx
+MzEsLTc0MDY3MzQyLDEyNTE3Nzc4MzQsMTY1MDU4ODk3MiwtMT
+E3NTcwNDA0MywxODg0MjA3NDk4LC0xNjYzMzU2NjM0LDI0MzM4
+MTk2LDEyMTEyNDgzODIsLTE4NDQ0NzExODYsMTc1NjYyNDY5NV
+19
 -->
