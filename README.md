@@ -89,7 +89,11 @@ E onde mais a curiosidade me permitir chegar
 <br>
 <br>
 
-## STATUS
+<div align="center">
+
+# STATUS
+
+</div>
 
 ![Elielson's github stats](https://github-readme-stats.vercel.app/api?username=Elielson68&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elielson68&bg_color=30,e96443,904e95&text_color=fff&count_private=false&icon_color=fff&title_color=fff&hide_border=true)
 
@@ -159,11 +163,11 @@ E onde mais a curiosidade me permitir chegar
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=ProvaCasseb---Validador-de-Senha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/ProvaCasseb---Validador-de-Senha)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=xFood---Atividade---Casseb&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/xFood---Atividade---Casseb)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODgxOTgxMywyMDQ5Nzg1NzQ4LDE5OT
-A0NzczODAsLTEwNDcyOTcxNjksMTUwMzg2NzI5NSw1MzUzOTQw
-NCwtNTgzNzYyMzIxLDEzNTEzODUyNTEsODM1OTcwMDMwLDk4Nj
-AxMDg1OCwtMTI5NTY5MzE4MiwtODA2MDMzMTc4LC05NzE1MTAz
-NDQsMTMwOTU5ODEzMSwtNzQwNjczNDIsMTI1MTc3NzgzNCwxNj
-UwNTg4OTcyLC0xMTc1NzA0MDQzLDE4ODQyMDc0OTgsLTE2NjMz
-NTY2MzRdfQ==
+eyJoaXN0b3J5IjpbLTE3NDk5MzYxNDAsMjA0OTc4NTc0OCwxOT
+kwNDc3MzgwLC0xMDQ3Mjk3MTY5LDE1MDM4NjcyOTUsNTM1Mzk0
+MDQsLTU4Mzc2MjMyMSwxMzUxMzg1MjUxLDgzNTk3MDAzMCw5OD
+YwMTA4NTgsLTEyOTU2OTMxODIsLTgwNjAzMzE3OCwtOTcxNTEw
+MzQ0LDEzMDk1OTgxMzEsLTc0MDY3MzQyLDEyNTE3Nzc4MzQsMT
+Y1MDU4ODk3MiwtMTE3NTcwNDA0MywxODg0MjA3NDk4LC0xNjYz
+MzU2NjM0XX0=
 -->
