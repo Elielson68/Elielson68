@@ -48,7 +48,9 @@ E onde mais a curiosidade me permitir chegar
 <div align="center">
 <img src="https://64.media.tumblr.com/9250c0c60d7d7974053876ca50410e44/tumblr_mfr6dto4j21s0qwlko1_500.gif" width="148px"/>
 </div>
+<hr>
 
+# SKILLS
 Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 
 ### FRONTEND SKILLS
@@ -155,7 +157,7 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=ProvaCasseb---Validador-de-Senha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/ProvaCasseb---Validador-de-Senha)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=xFood---Atividade---Casseb&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/xFood---Atividade---Casseb)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzA1MTYyNTIsMjA0OTc4NTc0OCwxOT
+eyJoaXN0b3J5IjpbLTEzMjA0ODU1MzcsMjA0OTc4NTc0OCwxOT
 kwNDc3MzgwLC0xMDQ3Mjk3MTY5LDE1MDM4NjcyOTUsNTM1Mzk0
 MDQsLTU4Mzc2MjMyMSwxMzUxMzg1MjUxLDgzNTk3MDAzMCw5OD
 YwMTA4NTgsLTEyOTU2OTMxODIsLTgwNjAzMzE3OCwtOTcxNTEw
