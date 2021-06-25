@@ -62,6 +62,7 @@ E onde mais a curiosidade me permitir chegar
 	<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 	<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"/>
 </div>
+
 <br>
 
 ### BACKEND SKILLS
@@ -78,13 +79,17 @@ E onde mais a curiosidade me permitir chegar
 	<img align="left" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/regexplanet/regexplanet-ar21.svg"/>
 	<img align="left" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"/>
 </div>
+
 <br>
 
 ### ENGINE SKILLS
+<div>
 
 <img align="left" alt="Dot Net" width="100px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"/>
+
+</div>
 <br>
-<br>
+
 
 <div align="center">
 
@@ -166,11 +171,11 @@ E onde mais a curiosidade me permitir chegar
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=ProvaCasseb---Validador-de-Senha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/ProvaCasseb---Validador-de-Senha)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=xFood---Atividade---Casseb&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/xFood---Atividade---Casseb)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1MzEzMzc5LC0xOTcxOTE3NTkzLDIwND
-k3ODU3NDgsMTk5MDQ3NzM4MCwtMTA0NzI5NzE2OSwxNTAzODY3
-Mjk1LDUzNTM5NDA0LC01ODM3NjIzMjEsMTM1MTM4NTI1MSw4Mz
-U5NzAwMzAsOTg2MDEwODU4LC0xMjk1NjkzMTgyLC04MDYwMzMx
-NzgsLTk3MTUxMDM0NCwxMzA5NTk4MTMxLC03NDA2NzM0MiwxMj
-UxNzc3ODM0LDE2NTA1ODg5NzIsLTExNzU3MDQwNDMsMTg4NDIw
-NzQ5OF19
+eyJoaXN0b3J5IjpbNTc4MDY1MzA0LDU2NTMxMzM3OSwtMTk3MT
+kxNzU5MywyMDQ5Nzg1NzQ4LDE5OTA0NzczODAsLTEwNDcyOTcx
+NjksMTUwMzg2NzI5NSw1MzUzOTQwNCwtNTgzNzYyMzIxLDEzNT
+EzODUyNTEsODM1OTcwMDMwLDk4NjAxMDg1OCwtMTI5NTY5MzE4
+MiwtODA2MDMzMTc4LC05NzE1MTAzNDQsMTMwOTU5ODEzMSwtNz
+QwNjczNDIsMTI1MTc3NzgzNCwxNjUwNTg4OTcyLC0xMTc1NzA0
+MDQzXX0=
 -->
