@@ -141,13 +141,16 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 ### CASSEB CHALLENGERS
 
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=MarteExplorerGame&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/MarteExplorerGame)
-[![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=MarteExplorerGame&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Desafio-Casseb---Locadora-de-Filmes)
+[![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Desafio-Casseb---Locadora-de-Filmes&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Desafio-Casseb---Locadora-de-Filmes)
+[![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Desafio-Casseb---Carrinho-de-compras&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Desafio-Casseb---Carrinho-de-compras)
+[![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Gerador-de-Vetores-e-Matrizes-aleat-rios&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Gerador-de-Vetores-e-Matrizes-aleat-rios)
+[![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Gerador-de-Vetores-e-Matrizes-aleat-rios&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/ProvaCasseb---Validador-de-Senha)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTAwNjEzMywtMTA0NzI5NzE2OSwxNT
-AzODY3Mjk1LDUzNTM5NDA0LC01ODM3NjIzMjEsMTM1MTM4NTI1
-MSw4MzU5NzAwMzAsOTg2MDEwODU4LC0xMjk1NjkzMTgyLC04MD
-YwMzMxNzgsLTk3MTUxMDM0NCwxMzA5NTk4MTMxLC03NDA2NzM0
-MiwxMjUxNzc3ODM0LDE2NTA1ODg5NzIsLTExNzU3MDQwNDMsMT
-g4NDIwNzQ5OCwtMTY2MzM1NjYzNCwyNDMzODE5NiwxMjExMjQ4
-MzgyXX0=
+eyJoaXN0b3J5IjpbLTE2NzMxNTk2MjAsLTEwNDcyOTcxNjksMT
+UwMzg2NzI5NSw1MzUzOTQwNCwtNTgzNzYyMzIxLDEzNTEzODUy
+NTEsODM1OTcwMDMwLDk4NjAxMDg1OCwtMTI5NTY5MzE4MiwtOD
+A2MDMzMTc4LC05NzE1MTAzNDQsMTMwOTU5ODEzMSwtNzQwNjcz
+NDIsMTI1MTc3NzgzNCwxNjUwNTg4OTcyLC0xMTc1NzA0MDQzLD
+E4ODQyMDc0OTgsLTE2NjMzNTY2MzQsMjQzMzgxOTYsMTIxMTI0
+ODM4Ml19
 -->
