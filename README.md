@@ -106,7 +106,7 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 
  ### BOT
  
- <div style="background-color: green;" width="100%">
+ <div background="color: green" width="100%">
   oiiiii
   dsasda
 </div>
@@ -137,10 +137,10 @@ https://github.com/Elielson68/TabuleiroGame
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTE1NzQyNjcsLTU4Mzc2MjMyMSwxMz
-UxMzg1MjUxLDgzNTk3MDAzMCw5ODYwMTA4NTgsLTEyOTU2OTMx
-ODIsLTgwNjAzMzE3OCwtOTcxNTEwMzQ0LDEzMDk1OTgxMzEsLT
-c0MDY3MzQyLDEyNTE3Nzc4MzQsMTY1MDU4ODk3MiwtMTE3NTcw
-NDA0MywxODg0MjA3NDk4LC0xNjYzMzU2NjM0LDI0MzM4MTk2LD
-EyMTEyNDgzODIsLTE4NDQ0NzExODYsMTc1NjYyNDY5NV19
+eyJoaXN0b3J5IjpbNTM1Mzk0MDQsLTU4Mzc2MjMyMSwxMzUxMz
+g1MjUxLDgzNTk3MDAzMCw5ODYwMTA4NTgsLTEyOTU2OTMxODIs
+LTgwNjAzMzE3OCwtOTcxNTEwMzQ0LDEzMDk1OTgxMzEsLTc0MD
+Y3MzQyLDEyNTE3Nzc4MzQsMTY1MDU4ODk3MiwtMTE3NTcwNDA0
+MywxODg0MjA3NDk4LC0xNjYzMzU2NjM0LDI0MzM4MTk2LDEyMT
+EyNDgzODIsLTE4NDQ0NzExODYsMTc1NjYyNDY5NV19
 -->
