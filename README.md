@@ -79,12 +79,15 @@ E onde mais a curiosidade me permitir chegar
 	<img align="left" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/regexplanet/regexplanet-ar21.svg"/>
 	<img align="left" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"/>
 </div>
-
 <br>
+<br>
+<br>
+
+<div align="left">
 
 ### ENGINE SKILLS
 
-<div>
+
 
 <img align="left" alt="Dot Net" width="100px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"/>
 
@@ -172,11 +175,11 @@ E onde mais a curiosidade me permitir chegar
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=ProvaCasseb---Validador-de-Senha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/ProvaCasseb---Validador-de-Senha)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=xFood---Atividade---Casseb&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/xFood---Atividade---Casseb)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc3NTgyMzAsNTc4MDY1MzA0LDU2NT
-MxMzM3OSwtMTk3MTkxNzU5MywyMDQ5Nzg1NzQ4LDE5OTA0Nzcz
-ODAsLTEwNDcyOTcxNjksMTUwMzg2NzI5NSw1MzUzOTQwNCwtNT
-gzNzYyMzIxLDEzNTEzODUyNTEsODM1OTcwMDMwLDk4NjAxMDg1
-OCwtMTI5NTY5MzE4MiwtODA2MDMzMTc4LC05NzE1MTAzNDQsMT
-MwOTU5ODEzMSwtNzQwNjczNDIsMTI1MTc3NzgzNCwxNjUwNTg4
-OTcyXX0=
+eyJoaXN0b3J5IjpbLTc4MDAxNjQ5Nyw1NzgwNjUzMDQsNTY1Mz
+EzMzc5LC0xOTcxOTE3NTkzLDIwNDk3ODU3NDgsMTk5MDQ3NzM4
+MCwtMTA0NzI5NzE2OSwxNTAzODY3Mjk1LDUzNTM5NDA0LC01OD
+M3NjIzMjEsMTM1MTM4NTI1MSw4MzU5NzAwMzAsOTg2MDEwODU4
+LC0xMjk1NjkzMTgyLC04MDYwMzMxNzgsLTk3MTUxMDM0NCwxMz
+A5NTk4MTMxLC03NDA2NzM0MiwxMjUxNzc3ODM0LDE2NTA1ODg5
+NzJdfQ==
 -->
