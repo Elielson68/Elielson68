@@ -67,7 +67,7 @@ E onde mais a curiosidade me permitir chegar
 
 ### BACKEND SKILLS
 
-<div style="background-color: #FF0000">
+<div>
 	<img align="left" alt="Python" width="32px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"/>
 	<img align="left" alt="Python" width="72px" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"/>
 	<img align="left" alt="Flask" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"/>
@@ -81,9 +81,6 @@ E onde mais a curiosidade me permitir chegar
 </div>
 <br>
 <br>
-<br>
-
-<div align="left">
 
 ### ENGINE SKILLS
 
@@ -91,7 +88,6 @@ E onde mais a curiosidade me permitir chegar
 
 <img align="left" alt="Dot Net" width="100px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"/>
 
-</div>
 <br>
 
 
@@ -175,11 +171,11 @@ E onde mais a curiosidade me permitir chegar
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=ProvaCasseb---Validador-de-Senha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/ProvaCasseb---Validador-de-Senha)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=xFood---Atividade---Casseb&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/xFood---Atividade---Casseb)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDAxNjQ5Nyw1NzgwNjUzMDQsNTY1Mz
-EzMzc5LC0xOTcxOTE3NTkzLDIwNDk3ODU3NDgsMTk5MDQ3NzM4
-MCwtMTA0NzI5NzE2OSwxNTAzODY3Mjk1LDUzNTM5NDA0LC01OD
-M3NjIzMjEsMTM1MTM4NTI1MSw4MzU5NzAwMzAsOTg2MDEwODU4
-LC0xMjk1NjkzMTgyLC04MDYwMzMxNzgsLTk3MTUxMDM0NCwxMz
-A5NTk4MTMxLC03NDA2NzM0MiwxMjUxNzc3ODM0LDE2NTA1ODg5
-NzJdfQ==
+eyJoaXN0b3J5IjpbLTI0Mjg0MTgyNiwtNzgwMDE2NDk3LDU3OD
+A2NTMwNCw1NjUzMTMzNzksLTE5NzE5MTc1OTMsMjA0OTc4NTc0
+OCwxOTkwNDc3MzgwLC0xMDQ3Mjk3MTY5LDE1MDM4NjcyOTUsNT
+M1Mzk0MDQsLTU4Mzc2MjMyMSwxMzUxMzg1MjUxLDgzNTk3MDAz
+MCw5ODYwMTA4NTgsLTEyOTU2OTMxODIsLTgwNjAzMzE3OCwtOT
+cxNTEwMzQ0LDEzMDk1OTgxMzEsLTc0MDY3MzQyLDEyNTE3Nzc4
+MzRdfQ==
 -->
