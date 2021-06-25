@@ -109,10 +109,12 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 [![Algoritmo-Euclides](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Algoritmo-Euclides&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Algoritmo-Euclides)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Calcular-Encontrar-C-ou-M-1&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Calcular-Encontrar-C-ou-M-1)
 
+[![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BotWhatsapp&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Calcular-Encontrar-C-ou-M-1)### [BotWhatsapp](https://github.com/Elielson68/BotWhatsapp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2MDEwODU4LC0xMjk1NjkzMTgyLC04MD
-YwMzMxNzgsLTk3MTUxMDM0NCwxMzA5NTk4MTMxLC03NDA2NzM0
-MiwxMjUxNzc3ODM0LDE2NTA1ODg5NzIsLTExNzU3MDQwNDMsMT
-g4NDIwNzQ5OCwtMTY2MzM1NjYzNCwyNDMzODE5NiwxMjExMjQ4
-MzgyLC0xODQ0NDcxMTg2LDE3NTY2MjQ2OTVdfQ==
+eyJoaXN0b3J5IjpbLTE5Mjk0OTMzMjgsOTg2MDEwODU4LC0xMj
+k1NjkzMTgyLC04MDYwMzMxNzgsLTk3MTUxMDM0NCwxMzA5NTk4
+MTMxLC03NDA2NzM0MiwxMjUxNzc3ODM0LDE2NTA1ODg5NzIsLT
+ExNzU3MDQwNDMsMTg4NDIwNzQ5OCwtMTY2MzM1NjYzNCwyNDMz
+ODE5NiwxMjExMjQ4MzgyLC0xODQ0NDcxMTg2LDE3NTY2MjQ2OT
+VdfQ==
 -->
