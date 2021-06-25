@@ -79,17 +79,16 @@ E onde mais a curiosidade me permitir chegar
 	<img align="left" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/regexplanet/regexplanet-ar21.svg"/>
 	<img align="left" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"/>
 </div>
-<br>
+
 
 <br>
+
+
 ### ENGINE SKILLS
-
-
 
 <img align="left" alt="Dot Net" width="100px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"/>
 
 <br>
-
 
 <div align="center">
 
@@ -171,7 +170,7 @@ E onde mais a curiosidade me permitir chegar
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=ProvaCasseb---Validador-de-Senha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/ProvaCasseb---Validador-de-Senha)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=xFood---Atividade---Casseb&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/xFood---Atividade---Casseb)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTI2OTIxOCwtNzgwMDE2NDk3LDU3OD
+eyJoaXN0b3J5IjpbMTU5MTIyMjE1MCwtNzgwMDE2NDk3LDU3OD
 A2NTMwNCw1NjUzMTMzNzksLTE5NzE5MTc1OTMsMjA0OTc4NTc0
 OCwxOTkwNDc3MzgwLC0xMDQ3Mjk3MTY5LDE1MDM4NjcyOTUsNT
 M1Mzk0MDQsLTU4Mzc2MjMyMSwxMzUxMzg1MjUxLDgzNTk3MDAz
