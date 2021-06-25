@@ -104,7 +104,9 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 
 ## PYTHON PROJECTS
 
- 1. ### BOT
+ ### BOT
+<div width='500px' heigth='500px' style='background: green;'>
+</div>
 
 [![marcia-bot](https://github-readme-stats.vercel.app/api/pin/?username=marciaBot&repo=marcia-bot&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/marciaBot/marcia-bot)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BotWhatsapp&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BotWhatsapp)
@@ -132,10 +134,10 @@ https://github.com/Elielson68/TabuleiroGame
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1OTcwMDMwLDk4NjAxMDg1OCwtMTI5NT
-Y5MzE4MiwtODA2MDMzMTc4LC05NzE1MTAzNDQsMTMwOTU5ODEz
-MSwtNzQwNjczNDIsMTI1MTc3NzgzNCwxNjUwNTg4OTcyLC0xMT
-c1NzA0MDQzLDE4ODQyMDc0OTgsLTE2NjMzNTY2MzQsMjQzMzgx
-OTYsMTIxMTI0ODM4MiwtMTg0NDQ3MTE4NiwxNzU2NjI0Njk1XX
-0=
+eyJoaXN0b3J5IjpbLTE3Njg0OTcwNzUsODM1OTcwMDMwLDk4Nj
+AxMDg1OCwtMTI5NTY5MzE4MiwtODA2MDMzMTc4LC05NzE1MTAz
+NDQsMTMwOTU5ODEzMSwtNzQwNjczNDIsMTI1MTc3NzgzNCwxNj
+UwNTg4OTcyLC0xMTc1NzA0MDQzLDE4ODQyMDc0OTgsLTE2NjMz
+NTY2MzQsMjQzMzgxOTYsMTIxMTI0ODM4MiwtMTg0NDQ3MTE4Ni
+wxNzU2NjI0Njk1XX0=
 -->
