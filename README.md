@@ -111,10 +111,16 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BotWhatsapp&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BotWhatsapp)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BotDiscordGameLab&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BotDiscordGameLab)
+[![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BauMagicoGame&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BauMagicoGame)
+[![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=CesupaWebScrapping&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/CesupaWebScrapping)
+https://github.com/Elielson68/BatataQuenteGame
 
-https://github.com/Elielson68/BauMagicoGame
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE4MzQ5OTAsOTg2MDEwODU4LC0xMj
+eyJoaXN0b3J5IjpbLTIxMTM2MzY4NzUsOTg2MDEwODU4LC0xMj
 k1NjkzMTgyLC04MDYwMzMxNzgsLTk3MTUxMDM0NCwxMzA5NTk4
 MTMxLC03NDA2NzM0MiwxMjUxNzc3ODM0LDE2NTA1ODg5NzIsLT
 ExNzU3MDQwNDMsMTg4NDIwNzQ5OCwtMTY2MzM1NjYzNCwyNDMz
