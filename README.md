@@ -106,6 +106,11 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 
  ### BOT
  
+ <div style="padding-right: 100px;padding-left: 100px;padding-bottom: 100%;padding-top: 100px;border-top-width: 0px;border-top-style: solid;margin-top: 5px;margin-bottom: 5px;background-color: green;" width="100%">
+  oiiiii
+  dsasda
+</div>
+
 [![marcia-bot](https://github-readme-stats.vercel.app/api/pin/?username=marciaBot&repo=marcia-bot&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/marciaBot/marcia-bot)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BotWhatsapp&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BotWhatsapp)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BotDiscordGameLab&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BotDiscordGameLab)
@@ -132,10 +137,10 @@ https://github.com/Elielson68/TabuleiroGame
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTM4NTI1MSw4MzU5NzAwMzAsOTg2MD
-EwODU4LC0xMjk1NjkzMTgyLC04MDYwMzMxNzgsLTk3MTUxMDM0
-NCwxMzA5NTk4MTMxLC03NDA2NzM0MiwxMjUxNzc3ODM0LDE2NT
-A1ODg5NzIsLTExNzU3MDQwNDMsMTg4NDIwNzQ5OCwtMTY2MzM1
-NjYzNCwyNDMzODE5NiwxMjExMjQ4MzgyLC0xODQ0NDcxMTg2LD
-E3NTY2MjQ2OTVdfQ==
+eyJoaXN0b3J5IjpbLTU4Mzc2MjMyMSwxMzUxMzg1MjUxLDgzNT
+k3MDAzMCw5ODYwMTA4NTgsLTEyOTU2OTMxODIsLTgwNjAzMzE3
+OCwtOTcxNTEwMzQ0LDEzMDk1OTgxMzEsLTc0MDY3MzQyLDEyNT
+E3Nzc4MzQsMTY1MDU4ODk3MiwtMTE3NTcwNDA0MywxODg0MjA3
+NDk4LC0xNjYzMzU2NjM0LDI0MzM4MTk2LDEyMTEyNDgzODIsLT
+E4NDQ0NzExODYsMTc1NjYyNDY5NV19
 -->
