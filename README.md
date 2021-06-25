@@ -135,8 +135,12 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=StructAluno&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/StructAluno)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Lista-Encadeada---Estrutura-de-dados&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Lista-Encadeada---Estrutura-de-dados)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Lista-Encadeada---Estrutura-de-dados&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Lista-Encadeada---Estrutura-de-dados)
+
+### CASSEB CHALLENGERS
+
+[![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=MarteExplorerGame&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/MarteExplorerGame)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjE3MDM5NDEsMTUwMzg2NzI5NSw1Mz
+eyJoaXN0b3J5IjpbLTEwNDcyOTcxNjksMTUwMzg2NzI5NSw1Mz
 UzOTQwNCwtNTgzNzYyMzIxLDEzNTEzODUyNTEsODM1OTcwMDMw
 LDk4NjAxMDg1OCwtMTI5NTY5MzE4MiwtODA2MDMzMTc4LC05Nz
 E1MTAzNDQsMTMwOTU5ODEzMSwtNzQwNjczNDIsMTI1MTc3Nzgz
