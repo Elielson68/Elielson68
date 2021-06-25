@@ -67,17 +67,17 @@ E onde mais a curiosidade me permitir chegar
 
 ### BACKEND SKILLS
 
-<div width="50%" heig>
-	<img align="left" alt="Python" width="32px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"/>
-	<img align="left" alt="Python" width="72px" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"/>
-	<img align="left" alt="Flask" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"/>
-	<img align="left" alt="C-Sharp" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
-	<img align="left" alt="Dot Net" width="38px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"/>
-	<img align="left" alt="Dot Net" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"/>
-	<img align="left" alt="Dot Net" width="56px" src="https://cpl.thalesgroup.com/sites/default/files/content/paragraphs/intro/2020-03/postgresql-logo.png"/>
-	<img align="left" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"/>
-	<img align="left" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/regexplanet/regexplanet-ar21.svg"/>
-	<img align="left" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"/>
+<div>
+	<img align="" alt="Python" width="32px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"/>
+	<img align="" alt="Python" width="72px" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"/>
+	<img align="" alt="Flask" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"/>
+	<img align="" alt="C-Sharp" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
+	<img align="" alt="Dot Net" width="38px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"/>
+	<img align="" alt="Dot Net" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"/>
+	<img align="" alt="Dot Net" width="56px" src="https://cpl.thalesgroup.com/sites/default/files/content/paragraphs/intro/2020-03/postgresql-logo.png"/>
+	<img align="" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"/>
+	<img align="" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/regexplanet/regexplanet-ar21.svg"/>
+	<img align="" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"/>
 </div>
 
 
@@ -170,7 +170,7 @@ E onde mais a curiosidade me permitir chegar
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=ProvaCasseb---Validador-de-Senha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/ProvaCasseb---Validador-de-Senha)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=xFood---Atividade---Casseb&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/xFood---Atividade---Casseb)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjIxMTUxNCwtNzgwMDE2NDk3LDU3OD
+eyJoaXN0b3J5IjpbMTQ3ODIzNzIwNCwtNzgwMDE2NDk3LDU3OD
 A2NTMwNCw1NjUzMTMzNzksLTE5NzE5MTc1OTMsMjA0OTc4NTc0
 OCwxOTkwNDc3MzgwLC0xMDQ3Mjk3MTY5LDE1MDM4NjcyOTUsNT
 M1Mzk0MDQsLTU4Mzc2MjMyMSwxMzUxMzg1MjUxLDgzNTk3MDAz
