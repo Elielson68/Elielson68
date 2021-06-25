@@ -67,7 +67,7 @@ E onde mais a curiosidade me permitir chegar
 
 ### BACKEND SKILLS
 
-<div>
+<div width="50%" heig>
 	<img align="left" alt="Python" width="32px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"/>
 	<img align="left" alt="Python" width="72px" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"/>
 	<img align="left" alt="Flask" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"/>
@@ -170,7 +170,7 @@ E onde mais a curiosidade me permitir chegar
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=ProvaCasseb---Validador-de-Senha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/ProvaCasseb---Validador-de-Senha)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=xFood---Atividade---Casseb&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/xFood---Atividade---Casseb)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTIyMjE1MCwtNzgwMDE2NDk3LDU3OD
+eyJoaXN0b3J5IjpbMTkyMjIxMTUxNCwtNzgwMDE2NDk3LDU3OD
 A2NTMwNCw1NjUzMTMzNzksLTE5NzE5MTc1OTMsMjA0OTc4NTc0
 OCwxOTkwNDc3MzgwLC0xMDQ3Mjk3MTY5LDE1MDM4NjcyOTUsNT
 M1Mzk0MDQsLTU4Mzc2MjMyMSwxMzUxMzg1MjUxLDgzNTk3MDAz
