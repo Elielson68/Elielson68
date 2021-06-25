@@ -109,9 +109,8 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 [![marcia-bot](https://github-readme-stats.vercel.app/api/pin/?username=marciaBot&repo=marcia-bot&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/marciaBot/marcia-bot)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BotWhatsapp&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BotWhatsapp)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BotDiscordGameLab&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BotDiscordGameLab)
-[![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BotDiscordGameLab&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BotWhatsapp-DownloadManga)
+[![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=BotWhatsapp-DownloadManga&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/BotWhatsapp-DownloadManga)
 
-https://github.com/Elielson68/BotWhatsapp-DownloadManga
 #### GAME
 [![JogoDaVelha](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=JogoDaVelha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/JogoDaVelha)
 #### UTILITIES
@@ -133,10 +132,10 @@ https://github.com/Elielson68/TabuleiroGame
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDExMjI5MCw5ODYwMTA4NTgsLTEyOT
-U2OTMxODIsLTgwNjAzMzE3OCwtOTcxNTEwMzQ0LDEzMDk1OTgx
-MzEsLTc0MDY3MzQyLDEyNTE3Nzc4MzQsMTY1MDU4ODk3MiwtMT
-E3NTcwNDA0MywxODg0MjA3NDk4LC0xNjYzMzU2NjM0LDI0MzM4
-MTk2LDEyMTEyNDgzODIsLTE4NDQ0NzExODYsMTc1NjYyNDY5NV
-19
+eyJoaXN0b3J5IjpbODM1OTcwMDMwLDk4NjAxMDg1OCwtMTI5NT
+Y5MzE4MiwtODA2MDMzMTc4LC05NzE1MTAzNDQsMTMwOTU5ODEz
+MSwtNzQwNjczNDIsMTI1MTc3NzgzNCwxNjUwNTg4OTcyLC0xMT
+c1NzA0MDQzLDE4ODQyMDc0OTgsLTE2NjMzNTY2MzQsMjQzMzgx
+OTYsMTIxMTI0ODM4MiwtMTg0NDQ3MTE4NiwxNzU2NjI0Njk1XX
+0=
 -->
