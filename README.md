@@ -93,6 +93,9 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 [![Inventary Project](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=InventarioProject&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/InventarioProject)
 [![Smooth Criminal](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=Smooth-Criminal&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/Smooth-Criminal)
 
+### UTILITIES
+
+[![Smooth Criminal](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=TextColor&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/TextColor)
 
 ## WEB PROJECTS
 
@@ -147,7 +150,7 @@ Atualmente as linguagens que possuo mais domínio são as listadas abaixo.
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=ProvaCasseb---Validador-de-Senha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/ProvaCasseb---Validador-de-Senha)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=xFood---Atividade---Casseb&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/xFood---Atividade---Casseb)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjU2ODczMSwtMTA0NzI5NzE2OSwxNT
+eyJoaXN0b3J5IjpbMTk5MDQ3NzM4MCwtMTA0NzI5NzE2OSwxNT
 AzODY3Mjk1LDUzNTM5NDA0LC01ODM3NjIzMjEsMTM1MTM4NTI1
 MSw4MzU5NzAwMzAsOTg2MDEwODU4LC0xMjk1NjkzMTgyLC04MD
 YwMzMxNzgsLTk3MTUxMDM0NCwxMzA5NTk4MTMxLC03NDA2NzM0
