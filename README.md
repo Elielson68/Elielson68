@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://media3.giphy.com/media/YWUpVw86AtIbe/giphy.gif" width="102px;"/> 
-
+Eae pedrinho
 # PLAYER UNLOCKED: ELIELSON BARBOSA 
 
 </div>
@@ -166,11 +166,11 @@ E onde mais a curiosidade me permitir chegar
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=ProvaCasseb---Validador-de-Senha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/ProvaCasseb---Validador-de-Senha)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=xFood---Atividade---Casseb&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/xFood---Atividade---Casseb)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3MDY0NjkyLDQ2NzUwMzA4OCwtNzgwMD
-E2NDk3LDU3ODA2NTMwNCw1NjUzMTMzNzksLTE5NzE5MTc1OTMs
-MjA0OTc4NTc0OCwxOTkwNDc3MzgwLC0xMDQ3Mjk3MTY5LDE1MD
-M4NjcyOTUsNTM1Mzk0MDQsLTU4Mzc2MjMyMSwxMzUxMzg1MjUx
-LDgzNTk3MDAzMCw5ODYwMTA4NTgsLTEyOTU2OTMxODIsLTgwNj
-AzMzE3OCwtOTcxNTEwMzQ0LDEzMDk1OTgxMzEsLTc0MDY3MzQy
-XX0=
+eyJoaXN0b3J5IjpbMTMyNjQ5MjUyNiw0Njc1MDMwODgsLTc4MD
+AxNjQ5Nyw1NzgwNjUzMDQsNTY1MzEzMzc5LC0xOTcxOTE3NTkz
+LDIwNDk3ODU3NDgsMTk5MDQ3NzM4MCwtMTA0NzI5NzE2OSwxNT
+AzODY3Mjk1LDUzNTM5NDA0LC01ODM3NjIzMjEsMTM1MTM4NTI1
+MSw4MzU5NzAwMzAsOTg2MDEwODU4LC0xMjk1NjkzMTgyLC04MD
+YwMzMxNzgsLTk3MTUxMDM0NCwxMzA5NTk4MTMxLC03NDA2NzM0
+Ml19
 -->
