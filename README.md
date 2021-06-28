@@ -74,6 +74,7 @@ E onde mais a curiosidade me permitir chegar
 	<img align="" alt="Flask" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"/>
 	<img align="" alt="C-Sharp" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
 	<img align="" alt="Dot Net" width="38px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"/>
+	<img align="" alt="Dot Net" width="62px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"/>
 	<img align="" alt="Dot Net" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"/>
 	<img align="" alt="Dot Net" width="56px" src="https://cpl.thalesgroup.com/sites/default/files/content/paragraphs/intro/2020-03/postgresql-logo.png"/>
 	<img align="" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"/>
@@ -168,11 +169,11 @@ E onde mais a curiosidade me permitir chegar
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=ProvaCasseb---Validador-de-Senha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/ProvaCasseb---Validador-de-Senha)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=xFood---Atividade---Casseb&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/xFood---Atividade---Casseb)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExNDM3NTM5LDEzMjY0OTI1MjYsNDY3NT
-AzMDg4LC03ODAwMTY0OTcsNTc4MDY1MzA0LDU2NTMxMzM3OSwt
-MTk3MTkxNzU5MywyMDQ5Nzg1NzQ4LDE5OTA0NzczODAsLTEwND
-cyOTcxNjksMTUwMzg2NzI5NSw1MzUzOTQwNCwtNTgzNzYyMzIx
-LDEzNTEzODUyNTEsODM1OTcwMDMwLDk4NjAxMDg1OCwtMTI5NT
-Y5MzE4MiwtODA2MDMzMTc4LC05NzE1MTAzNDQsMTMwOTU5ODEz
-MV19
+eyJoaXN0b3J5IjpbLTE5NjI3OTE4NDMsOTExNDM3NTM5LDEzMj
+Y0OTI1MjYsNDY3NTAzMDg4LC03ODAwMTY0OTcsNTc4MDY1MzA0
+LDU2NTMxMzM3OSwtMTk3MTkxNzU5MywyMDQ5Nzg1NzQ4LDE5OT
+A0NzczODAsLTEwNDcyOTcxNjksMTUwMzg2NzI5NSw1MzUzOTQw
+NCwtNTgzNzYyMzIxLDEzNTEzODUyNTEsODM1OTcwMDMwLDk4Nj
+AxMDg1OCwtMTI5NTY5MzE4MiwtODA2MDMzMTc4LC05NzE1MTAz
+NDRdfQ==
 -->
