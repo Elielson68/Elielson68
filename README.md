@@ -79,7 +79,7 @@ E onde mais a curiosidade me permitir chegar
 	<img alt="Postgresql" width="56px" src="https://cpl.thalesgroup.com/sites/default/files/content/paragraphs/intro/2020-03/postgresql-logo.png"/>
 	<img alt="mongodb" width="98px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"/>
 	<img alt="regex" width="98px" src="https://www.vectorlogo.zone/logos/regexplanet/regexplanet-ar21.svg"/>
-	<img alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"/>
+	<img alt="socketio" width="98px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"/>
 </div>
 <br>
 
@@ -169,11 +169,11 @@ E onde mais a curiosidade me permitir chegar
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=ProvaCasseb---Validador-de-Senha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/ProvaCasseb---Validador-de-Senha)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=xFood---Atividade---Casseb&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/xFood---Atividade---Casseb)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MTQ0Njg1NSw5MTE0Mzc1MzksMTMyNj
-Q5MjUyNiw0Njc1MDMwODgsLTc4MDAxNjQ5Nyw1NzgwNjUzMDQs
-NTY1MzEzMzc5LC0xOTcxOTE3NTkzLDIwNDk3ODU3NDgsMTk5MD
-Q3NzM4MCwtMTA0NzI5NzE2OSwxNTAzODY3Mjk1LDUzNTM5NDA0
-LC01ODM3NjIzMjEsMTM1MTM4NTI1MSw4MzU5NzAwMzAsOTg2MD
-EwODU4LC0xMjk1NjkzMTgyLC04MDYwMzMxNzgsLTk3MTUxMDM0
-NF19
+eyJoaXN0b3J5IjpbNjg0MTExMzgsOTExNDM3NTM5LDEzMjY0OT
+I1MjYsNDY3NTAzMDg4LC03ODAwMTY0OTcsNTc4MDY1MzA0LDU2
+NTMxMzM3OSwtMTk3MTkxNzU5MywyMDQ5Nzg1NzQ4LDE5OTA0Nz
+czODAsLTEwNDcyOTcxNjksMTUwMzg2NzI5NSw1MzUzOTQwNCwt
+NTgzNzYyMzIxLDEzNTEzODUyNTEsODM1OTcwMDMwLDk4NjAxMD
+g1OCwtMTI5NTY5MzE4MiwtODA2MDMzMTc4LC05NzE1MTAzNDRd
+fQ==
 -->
