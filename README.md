@@ -77,8 +77,8 @@ E onde mais a curiosidade me permitir chegar
 	<img alt="Microsoft Azure" width="82px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"/>
 	<img alt="NodeJs" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"/>
 	<img alt="Postgresql" width="56px" src="https://cpl.thalesgroup.com/sites/default/files/content/paragraphs/intro/2020-03/postgresql-logo.png"/>
-	<img align="" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"/>
-	<img align="" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/regexplanet/regexplanet-ar21.svg"/>
+	<img alt="mongodb" width="98px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"/>
+	<img alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/regexplanet/regexplanet-ar21.svg"/>
 	<img align="" alt="Dot Net" width="98px" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"/>
 </div>
 <br>
@@ -169,7 +169,7 @@ E onde mais a curiosidade me permitir chegar
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=ProvaCasseb---Validador-de-Senha&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/ProvaCasseb---Validador-de-Senha)
 [![Calcular-Encontrar-C-ou-M](https://github-readme-stats.vercel.app/api/pin/?username=Elielson68&repo=xFood---Atividade---Casseb&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Elielson68/xFood---Atividade---Casseb)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDU0MDEzMCw5MTE0Mzc1MzksMTMyNj
+eyJoaXN0b3J5IjpbLTgyMzY2NzE2NCw5MTE0Mzc1MzksMTMyNj
 Q5MjUyNiw0Njc1MDMwODgsLTc4MDAxNjQ5Nyw1NzgwNjUzMDQs
 NTY1MzEzMzc5LC0xOTcxOTE3NTkzLDIwNDk3ODU3NDgsMTk5MD
 Q3NzM4MCwtMTA0NzI5NzE2OSwxNTAzODY3Mjk1LDUzNTM5NDA0
