@@ -8,7 +8,7 @@
 </div>
 Oi, sou o Elielson Barbosa e irei contar uma breve descrição sobre mim:
 
-Sou desenvolvedor de jogos mas que também ama explorar outras áreas 
+Sou desenvolvedor de jogos, mas que também ama explorar outras áreas 
 
 <div align="center">
 
